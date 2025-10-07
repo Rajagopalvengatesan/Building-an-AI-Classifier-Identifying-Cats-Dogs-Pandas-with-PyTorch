@@ -167,4 +167,5 @@ def predict_image(image_path):
 ```
 
 ## OUTPUT :
-![alt text](image.png)
+<img width="660" height="761" alt="image" src="https://github.com/user-attachments/assets/0ef47b73-174e-470a-bbf3-65f5307b3ec3" />
+
